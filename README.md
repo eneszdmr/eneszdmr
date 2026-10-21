@@ -1,26 +1,77 @@
-<img src="https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg">
-<h1 align="center">Hi 👋, I'm enes ozdemir</h1>
-<h3 align="center">A passionate frontend and backend developer from Türkiye :) </h3>
-<img  alt="coding" width="400" src="https://www.moradam.com/wp-content/uploads/2020/09/Yaz%C4%B1l%C4%B1mc%C4%B1-%C4%B0ll%C3%BCstrasyon.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eneszdmr&label=Profile%20views&color=0e75b6&style=flat" alt="eneszdmr" /> </p>
+  <!-- Header Banner / Title -->
+  <h1>👋 Merhaba, Ben Enes</h1>
+  <p><strong>Yazılım Geliştirici | Yapay Zeka Meraklısı | Amatör Drone Pilotu</strong></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eneszdmr" alt="eneszdmr" /></a> </p>
+  <p>
+    Modern web ve kurumsal arka plan mimarileri inşa ediyor, üretken yapay zeka ve RAG iş akışlarıyla sistemleri akıllandırıyor, gökyüzüne çıktığımda ise drone ile yeni perspektifler keşfediyorum.
+  </p>
 
-- 🔭 I’m currently working on **BOTAS**
+  <!-- Sosyal / İletişim Rozetleri -->
+  <p>
+    <a href="https://linkedin.com/in/eneszdmr" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ornek@eposta.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-- 💬 Ask me about **react, spring boot and java**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/enes-özdemir-6a74aa186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes-özdemir-6a74aa186" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 🚀 Odak Alanlarım & İlgi Dünyam
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eneszdmr&show_icons=true&locale=en&layout=compact" alt="eneszdmr" /></p>
+- 💻 **Yazılım Mimarisi:** Güçlü, ölçeklenebilir backend sistemleri, modern API entegrasyonları ve kullanıcı odaklı full-stack çözümler.
+- 🧠 **Yapay Zeka & LLM:** Kurumsal bilgi havuzları, RAG (Retrieval-Augmented Generation) boru hatları, vektör veritabanları ve otomasyon akışları.
+- 🚁 **Hava Sinematografisi:** Kod satırlarından başımı kaldırdığımda DJI Neo ile gökyüzünden kadrajlar yakalayan bir amatör hava pilotu.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eneszdmr&show_icons=true&locale=en" alt="eneszdmr" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eneszdmr&" alt="eneszdmr" /></p>
+### 🛠️ Yetkinlikler & Teknolojiler
+
+<div align="left">
+
+#### ⚙️ Arka Yüz & Mimariler
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+
+#### 🎨 Ön Yüz & Mobil
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+
+#### 🤖 Yapay Zeka, Veri & Otomasyon
+![LLM & RAG](https://img.shields.io/badge/LLM-RAG_Pipelines-blueviolet?style=flat-square)
+![Vector DB](https://img.shields.io/badge/pgvector-Embeddings-4169E1?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+#### 🚁 Havacılık & Görsel
+![DJI](https://img.shields.io/badge/DJI-Neo_Pilot-black?style=flat-square&logo=dji&logoColor=white)
+![Aerial Filming](https://img.shields.io/badge/Aerial-Videography-008080?style=flat-square)
+
+</div>
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eneszdmr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Enes'in GitHub İstatistikleri" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneszdmr&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eneszdmr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub><i>"Kodla inşa et, zekayla güçlendir, gökyüzünden geniş açı bak."</i></sub>
+</div>
